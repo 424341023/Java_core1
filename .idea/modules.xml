@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/v1ch03/BigIntegerTest/BigIntegerTest.iml" filepath="$PROJECT_DIR$/v1ch03/BigIntegerTest/BigIntegerTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch04/CalendarTest/CalendarTest.iml" filepath="$PROJECT_DIR$/v1ch04/CalendarTest/CalendarTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch03/CompoundInterest/CompoundInterest.iml" filepath="$PROJECT_DIR$/v1ch03/CompoundInterest/CompoundInterest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch04/ConstructorTest/ConstructorTest.iml" filepath="$PROJECT_DIR$/v1ch04/ConstructorTest/ConstructorTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch04/EmployeeTest/EmployeeTest.iml" filepath="$PROJECT_DIR$/v1ch04/EmployeeTest/EmployeeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch02/FXImageViewer/FXImageViewer.iml" filepath="$PROJECT_DIR$/v1ch02/FXImageViewer/FXImageViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch03/FirstSample/FirstSample.iml" filepath="$PROJECT_DIR$/v1ch03/FirstSample/FirstSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch02/ImageViewer/ImageViewer.iml" filepath="$PROJECT_DIR$/v1ch02/ImageViewer/ImageViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch03/InputTest/InputTest.iml" filepath="$PROJECT_DIR$/v1ch03/InputTest/InputTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_core1.iml" filepath="$PROJECT_DIR$/.idea/Java_core1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch03/LotteryArray/LotteryArray.iml" filepath="$PROJECT_DIR$/v1ch03/LotteryArray/LotteryArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch03/LotteryDrawing/LotteryDrawing.iml" filepath="$PROJECT_DIR$/v1ch03/LotteryDrawing/LotteryDrawing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch03/LotteryOdds/LotteryOdds.iml" filepath="$PROJECT_DIR$/v1ch03/LotteryOdds/LotteryOdds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch04/PackageTest/PackageTest.iml" filepath="$PROJECT_DIR$/v1ch04/PackageTest/PackageTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch04/ParamTest/ParamTest.iml" filepath="$PROJECT_DIR$/v1ch04/ParamTest/ParamTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch03/Retirement/Retirement.iml" filepath="$PROJECT_DIR$/v1ch03/Retirement/Retirement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch03/Retirement2/Retirement2.iml" filepath="$PROJECT_DIR$/v1ch03/Retirement2/Retirement2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch04/StaticTest/StaticTest.iml" filepath="$PROJECT_DIR$/v1ch04/StaticTest/StaticTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch02/Welcome/Welcome.iml" filepath="$PROJECT_DIR$/v1ch02/Welcome/Welcome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch05/v1ch05.iml" filepath="$PROJECT_DIR$/v1ch05/v1ch05.iml" />
+    </modules>
+  </component>
+</project>

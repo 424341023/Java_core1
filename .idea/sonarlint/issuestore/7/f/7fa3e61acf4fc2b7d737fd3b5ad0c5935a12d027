@@ -1,0 +1,9 @@
+
+@	java:S106"+Replace this use of System.out by a logger.(ì©ëÜ
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Íå‹µþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Âº™êúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(µÇÒøÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
